@@ -76,7 +76,7 @@ Windows 7/8/10/11
 - 软件使用
 
 ```bash
-双击运行软件，配置参数，选择输出目录，生成引擎即可
+双击运行软件，配置参数，选择输出目录，生成引擎
 ```
 
 - 挖矿引擎使用方法
@@ -88,16 +88,16 @@ Windows 7/8/10/11
 - 数据上线
 
 ```bash
-稍等一段时间，即可再矿池看到数据
+稍等一段时间，即可在矿池后台看到数据
 ```
 
 
 ## 🌭 项目地址
 |  项目   |   GITHUB  |   码云   |
 |---  |--- | --- |
-|  MateCloud后端源码   |  https://github.com/matevip/matecloud   |  https://gitee.com/matevip/matecloud   |
-|  Artemis前端源码   |  https://github.com/matevip/artemis   |  https://gitee.com/matevip/artemis   |
-|  MateBoot后端源码   |  https://github.com/matevip/mateboot   |  https://gitee.com/matevip/mateboot   |
+|  矿龙主程序   |  https://github.com/qingshan2048/kuanglong   |  https://gitee.com/   |
+|  GPU工具   |  https://github.com/qingshan2048/kuanglong   |  https://gitee.com/   |
+|  显卡参数表   |  https://github.com/qingshan2048/kuanglong   |  https://gitee.com/   |
 
 ## 🔨 更新日志
 
@@ -152,7 +152,6 @@ Windows 7/8/10/11
 ## ✨ 特别鸣谢
 特别感谢卢神对`MateCloud`项目提供的技术支持！
 - SZDB: 本软件的第一个忠实用户
-- chuzhixin: [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)
-- anncwb: [vue-vben-admin](https://github.com/anncwb/vue-vben-admin)
+- SZDB: 本软件的第一个忠实用户
 
 
