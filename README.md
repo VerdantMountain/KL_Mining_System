@@ -80,11 +80,11 @@ VPN名称 | 速度| 注册地址
 很多矿池主页大陆已经无法正常访问，需要借助VPN工具
 
 ## 🌭 项目地址
-|  项目   |   GITHUB  |   码云   |
+|  矿池配置   |   规格  |   说明   |
 |---  |--- | --- |
-|  矿龙主程序   |  https://github.com/qingshan2048/kuanglong   |  https://gitee.com/   |
-|  GPU工具   |  https://github.com/qingshan2048/kuanglong   |  https://gitee.com/   |
-|  显卡参数表   |  https://github.com/qingshan2048/kuanglong   |  https://gitee.com/   |
+|  TCP简易   |  eth.f2pool.com:6688   |  直接填写(ip:端口)则默认走tcp协议，备用矿池地址可留空   |
+|  TCP协议   |  stratum+tcp://eth.f2pool.com:6688   |  完整格式，备用矿池地址可留空   |
+|  SSL加密   |  stratum+ssl://eth.f2pool.com:6688   |  完整格式，备用矿池地址可留空   |
 
 ## 🔨 更新日志
 
