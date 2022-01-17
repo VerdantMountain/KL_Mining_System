@@ -135,7 +135,7 @@ VPN名称 | 速度| 注册地址
 | not support | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
 ## ✨ 特别鸣谢
-特别感谢卢神对`MateCloud`项目提供的技术支持！
+特别感谢以下对本软件的发展和发展做出过帮助的人！
 - SZDB: 本软件的第一个忠实用户
 - SZDB: 本软件的第一个忠实用户
 
