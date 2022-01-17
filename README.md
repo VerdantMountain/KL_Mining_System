@@ -30,18 +30,18 @@
 - **软件更新**：软件保持高频率的更新，最大限度的保证与政策和性能的高度兼容
 - **加密数据**：矿龙内的数据全部采用了数据加密处理，不会再数据传输中被任何通信商侦测
 
-## 🎨 系统演示
-### 👉 演示地址：http://cloud.mate.vip
+## 🔧 相关工具
+### 👉 翻墙工具：https://i.sw19.icu/kUeN
 
-账号 | 密码| 操作权限
+VPN名称 | 速度| 注册地址
 ---|---|---
-admin | matecloud| mate-system模块不能执行增删改请求
+速蛙云 | 极快| https://i.sw19.icu/kUeN
 
 如果需要验证手机号码登录，手机号码采用页面默认号码，点击获取验证码，输入1188，即可登录。
-### 🍯 企业版：http://plus.mate.vip
-账号 | 密码| 操作权限
+### 🍯 翻墙工具：https://i.sw19.icu/kUeN
+VPN名称 | 速度 | 注册地址
 ---|---|---
-admin | matecloud123 | 不能执行增删改请求，如需全部权限加微信 matecloud 联系
+速蛙云 | 极快 | https://i.sw19.icu/kUeN
 
 
 ![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
@@ -54,7 +54,7 @@ admin | matecloud123 | 不能执行增删改请求，如需全部权限加微信
 - `显卡性能表（全）.JPG` - 为机器配置挖矿程序的显卡算力参考图
 - `README.md` - 程序说明文件
 
-## 🔧 推荐矿池
+## 🎨 推荐矿池
 
 - [鱼池](http://f2pool.com/) - 鱼池，世界上最大的矿池之一
 - [BTC](http://btc.com/) - BTC，口碑不错，好用
