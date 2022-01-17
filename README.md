@@ -47,9 +47,12 @@ admin | matecloud123 | 不能执行增删改请求，如需全部权限加微信
 ![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
 
 
-## 🌐 文档
+## 🌐 文件说明
 
-[文档地址](http://doc.mate.vip/)
+- `KUANGLONG v1.08.exe` - 矿龙挖矿引擎生成器，主程序
+- `GPU-Z.2.43.0.exe` - 最新的GPU查看工具，方便查看GPU的负载工作状态
+- `显卡性能表（全）.JPG` - 为机器配置挖矿程序的显卡算力参考图
+- `README.md` - 程序说明文件
 
 ## 🔧 准备
 
