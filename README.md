@@ -18,7 +18,7 @@
 
 ## 💡 简介
 
-Artemis Admin 是基于vben的模板开发，使用了最新的`vue3`,`vite2`,`TypeScript`等主流技术，开箱即用的中后台前端解决方案，完全开源，可以商用。
+青山软件，必是精品
 
 ## 💥 特性
 
@@ -135,11 +135,11 @@ yarn build
 4. 推送您的分支: `git push origin feat/xxxx`
 5. 提交`pull request`
 
-## Git 贡献提交规范
+## 更新日志
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-  - `feat` 增加新功能
+`2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
   - `fix` 修复问题/BUG
   - `style` 代码风格相关无影响运行结果的
   - `perf` 优化/性能提升
