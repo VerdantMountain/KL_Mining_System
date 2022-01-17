@@ -119,21 +119,8 @@ yarn build
 
 ## ✨ 特别鸣谢
 特别感谢卢神对`MateCloud`项目提供的技术支持！
-- 卢春梦: [mica](https://gitee.com/596392912/mica)  
+- SZDB: 本软件的第一个忠实用户
 - chuzhixin: [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)
 - anncwb: [vue-vben-admin](https://github.com/anncwb/vue-vben-admin)
 
-
-
-
-# 矿龙
-可以让用户自定义挖矿强度时间以及是否待机挖矿，网吧，游戏工作室挖矿工具
-
-
-
-青山软件，必是精品
-
-## 更新日志
-
-2022-01-16 1.08版本 做出图形界面，可以用来配置生成器
 
