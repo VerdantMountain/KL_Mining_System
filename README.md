@@ -30,6 +30,9 @@
 - **软件更新**：软件保持高频率的更新，最大限度的保证与政策和性能的高度兼容
 - **加密数据**：矿龙内的数据全部采用了数据加密处理，不会再数据传输中被任何通信商侦测
 
+## 🍯 软件展示
+![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
+
 ## 🔧 相关工具
 ### 👉 翻墙工具：https://i.sw19.icu/kUeN
 
@@ -37,15 +40,7 @@ VPN名称 | 速度| 注册地址
 ---|---|---
 速蛙云 | 极快| https://i.sw19.icu/kUeN
 
-如果需要验证手机号码登录，手机号码采用页面默认号码，点击获取验证码，输入1188，即可登录。
-### 🍯 翻墙工具：https://i.sw19.icu/kUeN
-VPN名称 | 速度 | 注册地址
----|---|---
-速蛙云 | 极快 | https://i.sw19.icu/kUeN
-
-
-![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
-
+很多矿池主页大陆已经无法正常访问，需要借助VPN工具
 
 ## 🌐 文件说明
 
