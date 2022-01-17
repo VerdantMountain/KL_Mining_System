@@ -90,11 +90,12 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-- `2022-01-17` - 1.10版本
+- `2022-01-` - 1.12版本
 软件将支持数据加密传输，保证挖矿数据的安全，
+做了软件的自身加密，对关键数据全部与功能绑定，防止被他人进行代码的恶意篡改，保证用户利益
+- `2022-01-17` - 1.10版本
 同时改进了程序的定时系统，规避了旧版本程序自我卡死的几率，
 在生成界面新增了官网网址，可以方便更新到最新版本，
-做了软件的自身加密，对关键数据全部与功能绑定，防止被他人进行代码的恶意篡改，保证用户利益
 - `2022-01-15` - 1.08版本
 程序名字重新命名为矿龙网吧挖矿引擎，做出图形界面，可以用来配置生成器
 取消了GPU防中断系统，实测此功能效率并不明显，
