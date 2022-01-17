@@ -31,7 +31,6 @@
 
 ## 🍯 软件展示
 ![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
-<img src="https://github.com/qingshan2048/img/blob/main/a.jpg">
 
 ## 📝 文件说明
 
