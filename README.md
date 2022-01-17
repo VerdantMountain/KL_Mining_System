@@ -33,15 +33,6 @@
 ## 🍯 软件展示
 ![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
 
-## 🔧 相关工具
-### 👉 翻墙工具：https://i.sw19.icu/kUeN
-
-VPN名称 | 速度| 注册地址
----|---|---
-速蛙云 | 极快| https://i.sw19.icu/kUeN
-
-很多矿池主页大陆已经无法正常访问，需要借助VPN工具
-
 ## 🌐 文件说明
 
 - `KUANGLONG v1.08.exe` - 矿龙挖矿引擎生成器，主程序
@@ -80,6 +71,14 @@ Windows 7/8/10/11
 稍等一段时间，即可在矿池后台看到数据
 ```
 
+## 🔧 相关工具
+### 👉 翻墙工具：https://i.sw19.icu/kUeN
+
+VPN名称 | 速度| 注册地址
+---|---|---
+速蛙云 | 极快| https://i.sw19.icu/kUeN
+
+很多矿池主页大陆已经无法正常访问，需要借助VPN工具
 
 ## 🌭 项目地址
 |  项目   |   GITHUB  |   码云   |
