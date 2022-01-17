@@ -44,33 +44,7 @@ admin | matecloud| mate-system模块不能执行增删改请求
 admin | matecloud123 | 不能执行增删改请求，如需全部权限加微信 matecloud 联系
 
 
-<table>
-  <tr>
-    <td>
-    <img alt="artemis admin" width="100%" src="https://gitee.com/matevip/matecloud/raw/dev/doc/images/artemis_page1.png">
-    </td>
-     <td>
-    <img alt="artemis admin" width="100%" src="https://gitee.com/matevip/matecloud/raw/dev/doc/images/artemis_page2.png">
-    </td>
-
-  </tr>
-  <tr>
-    <td>
-    <img alt="artemis admin" width="100%" src="https://gitee.com/matevip/matecloud/raw/dev/doc/images/artemis_page3.png">
-    </td>
-    <td>
-    <img alt="artemis admin" width="100%" src="https://gitee.com/matevip/matecloud/raw/dev/doc/images/artemis_page4.png">
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <img alt="artemis admin" width="100%" src="https://gitee.com/matevip/matecloud/raw/dev/doc/images/artemis_page5.png">
-    </td>
-    <td>
-    <img alt="artemis admin" width="100%" src="https://gitee.com/matevip/matecloud/raw/dev/doc/images/artemis_page6.png">
-    </td>
-  </tr>
-</table>
+![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
 
 
 ## 🌐 文档
@@ -123,23 +97,11 @@ yarn build
 |  Artemis前端源码   |  https://github.com/matevip/artemis   |  https://gitee.com/matevip/artemis   |
 |  MateBoot后端源码   |  https://github.com/matevip/mateboot   |  https://gitee.com/matevip/mateboot   |
 
-## 🔨 如何贡献
-
-非常欢迎你的加入！[提一个 Issue](https://gitee.com/matevip/artemis/issues) 或者提交一个 Pull Request。
-
-**Pull Request:**
-
-1. Fork 代码!
-2. 创建自己的分支: `git checkout -b feat/xxxx`
-3. 提交你的修改: `git commit -am 'feat(function): add xxxxx'`
-4. 推送您的分支: `git push origin feat/xxxx`
-5. 提交`pull request`
-
-## 更新日志
+## 🔨 更新日志
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-`2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
+  - `2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
   - `fix` 修复问题/BUG
   - `style` 代码风格相关无影响运行结果的
   - `perf` 优化/性能提升
@@ -175,7 +137,7 @@ yarn build
 # 矿龙
 可以让用户自定义挖矿强度时间以及是否待机挖矿，网吧，游戏工作室挖矿工具
 
-![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
+
 
 青山软件，必是精品
 
