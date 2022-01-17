@@ -13,7 +13,7 @@
 # `最好用的智能挖矿引擎` 矿龙
 
 ## 🔥 当前版本
-`1.08` 可以让用户自定义挖矿强度时间以及是否待机挖矿，网吧，游戏工作室挖矿工具
+`1.08` 新增了图形界面功能
 
 
 ## 💡 简介
@@ -101,19 +101,11 @@ yarn build
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-  - `2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
-  - `fix` 修复问题/BUG
-  - `style` 代码风格相关无影响运行结果的
-  - `perf` 优化/性能提升
-  - `refactor` 重构
-  - `revert` 撤销修改
-  - `test` 测试相关
-  - `docs` 文档/注释
-  - `chore` 依赖更新/脚手架配置修改等
-  - `workflow` 工作流改进
-  - `ci` 持续集成
-  - `types` 类型定义文件更改
-  - `wip` 开发中
+ `2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
+ `2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
+ `2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
+ `2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
+ `2022-01-16` - 1.08版本 做出图形界面，可以用来配置生成器
 
 ## 浏览器支持
 
