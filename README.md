@@ -1,5 +1,5 @@
 # 矿龙
-可以让用户自定义挖矿强度时间以及是否待机挖矿，网吧游戏工作室挖矿工具
+可以让用户自定义挖矿强度时间以及是否待机挖矿，网吧，游戏工作室挖矿工具
 
 ![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
 
