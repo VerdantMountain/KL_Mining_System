@@ -90,6 +90,8 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
+- `2022-01-21` - 1.14版本
+对挖矿引擎中的调试输出进行了清除，代码更加简洁高效，避免了输出流阻塞进程的情况
 - `2022-01-21` - 1.12版本
 软件将支持数据加密传输，保证挖矿数据的安全
 做了软件的自身加密，对关键数据全部与功能绑定，防止被他人进行代码的恶意篡改
