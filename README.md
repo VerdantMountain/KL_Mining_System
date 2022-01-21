@@ -90,7 +90,7 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-- `2022-01-` - 1.12版本
+- `2022-01-21` - 1.12版本
 软件将支持数据加密传输，保证挖矿数据的安全
 做了软件的自身加密，对关键数据全部与功能绑定，防止被他人进行代码的恶意篡改
 取消了单线程轮滚式执行模式，采用了更先进的多路定时器自动触发执行，同时缓解了定时机制在windows系统中优先级低下的天然缺陷
