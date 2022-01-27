@@ -35,8 +35,6 @@
 ## 📝 文件说明
 
 - `KUANGLONG vx.xx.exe` - 矿龙挖矿引擎生成器，主程序
-- `GPU-Z.2.43.0.exe` - 最新的GPU查看工具，方便查看GPU的负载工作状态
-- `显卡性能表.JPG` - 为机器配置挖矿程序的显卡算力参考图
 - `README.md` - 程序说明文件
 
 ## 🌐 推荐矿池
@@ -159,4 +157,4 @@ VPN名称 | 速度| 注册地址
 ## 🐛 联系作者 🚑🎨
 如有其他需求或者业务也可以通过以下方式联系作者
 
-<img src="https://github.com/qingshan2048/img/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220117145755.jpg" width="260">
+<img src="https://github.com/qingshan2048/img/blob/main/weixin.jpg" width="260">
