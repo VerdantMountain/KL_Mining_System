@@ -91,9 +91,11 @@ VPN名称 | 速度| 注册地址
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
 - `2022-01-` - 1.18版本
-修改了账户的切换时序
+修改了账户的切换时序，保证程序运行及时上线
 去掉了软件自带的默认地址，防止误生成参数无效的文件，造成程序的不上线
 增加了生成文件可能再运行的情况提示
+将软件底部的版权信息由青山软件改成矿龙软件，不容易造成信息的混肴
+将待机挖矿命名改成空闲挖矿，形容更加准确易懂
 - `2022-01-26` - 1.16版本
 修改了软件的logo，看起来更加温和舒适
 新增了开机启动选项，启动项采用线程写入注册表
