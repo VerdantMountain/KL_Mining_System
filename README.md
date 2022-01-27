@@ -90,6 +90,9 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
+- `2022-01-` - 1.18版本
+修改了账户的切换时序
+去掉了软件自带的默认地址，防止误生成参数无效的文件，造成程序的不上线
 - `2022-01-26` - 1.16版本
 修改了软件的logo，看起来更加温和舒适
 新增了开机启动选项，启动项采用线程写入注册表
