@@ -30,7 +30,7 @@
 - **加密数据**：矿龙内的数据全部采用了数据加密处理，不会再数据传输中被任何通信商侦测
 
 ## 🍯 软件展示
-![Image text](https://github.com/qingshan2048/img/blob/main/a.jpg)
+![Image text](https://github.com/qingshan2048/img/blob/main/zhanshi.jpg)
 
 ## 📝 文件说明
 
