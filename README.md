@@ -88,6 +88,9 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
+- `2022-01-28` - 1.20版本
+重新规范了生成程序的界面，增加了内存检测和屏蔽窗口选项
+对内核的etc挖矿功能进行了测试
 - `2022-01-27` - 1.18版本
 修改了账户的切换时序，保证程序运行及时上线
 去掉了软件自带的默认地址，防止误生成参数无效的文件，造成程序的不上线
