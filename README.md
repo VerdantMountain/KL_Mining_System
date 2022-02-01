@@ -88,12 +88,13 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-- `2022-01-` - //1.22版本
+- `2022-02-` - //1.22版本
 增加了多币种选项，不只可以挖以太坊，还增加了以太经典币种的选项
 将用户改名为矿工，形容更加准确，避免了使用者把用户名和矿池账户名混肴的情况
 对屏蔽窗口选项界面做了优化，操作更容易上手
 对内核的强度参数进行了程序调节，缓解了用户不敢加强度，挖矿强度和算力不对等的情况
 更新了版本更新的下挂窗口提示，可以更好的保证软件的更新效率
+考虑到有些人对引擎的意思理解不是很透彻，所以将程序内的引擎替换为程序关键字，软件名字更名为矿龙智能挖矿系统
 - `2022-01-28` - 1.20版本
 重新规范了生成程序的界面，增加了内存检测和屏蔽窗口选项
 对内核的etc挖矿功能进行了测试
