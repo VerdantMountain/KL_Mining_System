@@ -88,6 +88,8 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
+- `2022-02-?` - （即将发布）1.24版本
+支持矿池子账户钱包挖矿
 - `2022-02-05` - 1.22版本
 增加了多币种选项，不只可以挖以太坊，还增加了以太经典币种的选项
 将用户改名为矿工，形容更加准确，避免了使用者把用户名和矿池账户名混肴的情况
