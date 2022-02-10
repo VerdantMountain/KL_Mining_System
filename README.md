@@ -88,10 +88,10 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-- `2022-02-?` - 版本 1.26.N  (即将发布)
+- `2022-02-?` - v1.26.N  (即将发布)
 
 
-- `2022-02-10` - 版本 1.24.N 
+- `2022-02-10` - v1.24.N 
 支持矿池子账户钱包挖矿
 优化了软件版本的算法，版本识别更准确
 改进了进程识别的程序算法，最大支持暂停和退出功能总计1000个字节的进程名称排除量，并做出了进程暂停和退出的定制界面
