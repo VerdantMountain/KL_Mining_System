@@ -34,7 +34,7 @@
 
 ## 📝 文件说明
 
-- `KUANGLONG vx.xx.exe` - 矿龙智能挖矿系统主程序
+- `KUANGLONG vx.xx.N.exe` - 矿龙智能挖矿系统主程序
 - `README.md` - 程序说明文件
 
 ## 🌐 推荐矿池
