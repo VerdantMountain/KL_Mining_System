@@ -89,6 +89,7 @@ VPN名称 | 速度| 注册地址
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
 - `2022-02-?` - v1.26.N  (即将发布)
+增加了屏幕分辨率的高DPI识别，界面更清晰
 
 
 - `2022-02-10` - v1.24.N 
