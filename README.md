@@ -88,14 +88,15 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-- `2022-02-?` - v1.26.N  (即将发布)
+- `2022-02-?` - v1.28.N  (即将发布)
+
+
+- `2022-02-13` - v1.26.N
 增加了屏幕分辨率的高DPI识别，界面更清晰
 补充了保存路径可能为空的异常情况提示信息
-新增加了一些游戏备选项
+新增加了十余项暂停和退出进程备选项
 取消了联网验证版本的功能
 因为100%强度和99%强度在内核调度上有一半的算力差距，防止误加算力造成的机器卡顿，将上机挖矿的100%强度取消，变更后为1-99%
-
-
 - `2022-02-10` - v1.24.N 
 支持矿池子账户钱包挖矿
 优化了软件版本的算法，版本识别更准确
