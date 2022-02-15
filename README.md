@@ -89,7 +89,7 @@ VPN名称 | 速度| 注册地址
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
 - `2022-02-??` - v1.28.N  (即将发布)
-增加了火绒，暗黑破坏神3备选项
+增加了火绒，暗黑破坏神3，地下城与勇士备选项
 大幅增加了推荐配置的进程数量
 升级了加密服务器
 增加了对显存和CUDA的阈值检测
