@@ -97,12 +97,13 @@ VPN名称 | 速度| 注册地址
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
 - `2022-02-??` - v1.30.N  (即将发布)
-挖矿程序无法联网的时候会不停的查询gpu信息，由于英伟达显卡驱动的设计缺陷会导致涨爆内存的情况，此版本通过对英伟达驱动接口的空占用，防止内核查询gpu信息，从而有效控制内存爆涨
 增加了对显存和CUDA的阈值检测
+
+
+
+- `2022-02-??` - v1.30.N
+挖矿程序无法正常挖矿的时候会不停的查询gpu信息，由于显卡驱动的设计缺陷会导致涨爆内存的情况，此版本通过对显卡驱动接口的空占用，防止内核查询gpu信息，从而有效控制内存爆涨
 禁用了看门狗功能
-
-
-
 - `2022-02-17` - v1.28.N
 增加了火绒，暗黑破坏神3，地下城与勇士备选项，修改了英雄联盟的进程名称字母大小写
 大幅增加了推荐配置的进程数量并将推荐配置设置为启动默认配置
