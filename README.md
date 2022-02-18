@@ -96,12 +96,12 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-- `2022-02-??` - v1.30.N  (即将发布)
+- `2022-02-??` - v1.32.N  (即将发布)
 增加了对显存和CUDA的阈值检测
 
 
 
-- `2022-02-??` - v1.30.N
+- `2022-02-18` - v1.30.N
 挖矿程序无法正常挖矿的时候会不停的查询gpu信息，由于显卡驱动的设计缺陷会导致涨爆内存的情况，此版本通过对显卡驱动接口的空占用，防止内核查询gpu信息，从而有效控制内存爆涨
 禁用了看门狗功能
 - `2022-02-17` - v1.28.N
