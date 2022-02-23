@@ -210,4 +210,4 @@ VPN名称 | 速度| 注册地址
 ## 🐛 关于更新 🚑🎨
 本软件长期保持更新，欢迎关注
 
-<img src="https://github.com/qingshan2048/img/blob/main/ethereum.png" width="260">
+<img src="https://github.com/qingshan2048/img/blob/main/zhanshi2.png" width="260">
