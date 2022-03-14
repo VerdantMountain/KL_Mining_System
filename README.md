@@ -218,6 +218,6 @@ VPN名称 | 速度| 注册地址
 - SZDB: 本软件的第一个忠实用户
 
 ## 🐛 关于作者 🚑🎨
-本软件长期保持更新，欢迎关注
+如有其他业务可以通过下面的方式联系作者
 
 <img src="https://github.com/qingshan2048/img/blob/main/weixin.jpg" width="260">
