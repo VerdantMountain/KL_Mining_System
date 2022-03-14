@@ -98,6 +98,8 @@ VPN名称 | 速度| 注册地址
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
 - `2022-03-??` - v1.36.N  (即将发布)
+新增计费系统锁屏界面识别功能，自动识别锁屏状态执行挖矿程序
+新增矿工名按照机器名称进行生成功能
 
 - `2022-03-08` - v1.34.N
 对后台挖矿进行了建议不选的红字提示
