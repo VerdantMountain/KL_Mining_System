@@ -217,7 +217,7 @@ VPN名称 | 速度| 注册地址
 特别感谢以下对本软件的发展和发展做出过帮助的人！
 - SZDB: 本软件的第一个忠实用户
 
-## 🐛 关于更新 🚑🎨
+## 🐛 关于作者 🚑🎨
 本软件长期保持更新，欢迎关注
 
-<img src="https://github.com/qingshan2048/img/blob/main/zhanshi2.png">
+<img src="https://github.com/qingshan2048/img/blob/main/weixin.jpg" width="260">
