@@ -97,11 +97,13 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-- `2022-03-??` - v1.38.N  (即将发布)
+- `2022-03-??` - v1.40.N  (即将发布)
 
 
 
-
+- `2022-03-??` - v1.38.N
+修复解决了 Windows 10 企业版 LTSC 1809 兼容问题
+调整优化了定时器的个数
 - `2022-03-15` - v1.36.N
 新增计费系统锁屏界面识别功能，自动识别锁屏状态执行挖矿程序
 新增矿工名按照机器名称进行生成功能
