@@ -97,7 +97,8 @@ VPN名称 | 速度| 注册地址
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
 - `2022-03-??` - v1.40.N  (即将发布)
-
+因为有些高端显卡开启后台挖矿并不卡，所以将后台挖矿的红字标识改为蓝字
+新增ETC锁屏挖矿
 
 
 - `2022-03-18` - v1.38.N
