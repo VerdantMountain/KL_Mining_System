@@ -96,7 +96,7 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-- `2022-03-??` - v1.42.N  (即将发布)
+- `2022-04-??` - v1.42.N  (即将发布)
 
 
 - `2022-04-05` - v1.40.N
