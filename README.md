@@ -96,8 +96,6 @@ VPN名称 | 速度| 注册地址
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
-```bigquery
-
 - `2022-05-01` - v1.42.N  (即将发布)
 - 新增了软件启动默认ETH选项和万象网管OL客户端系统选项
 -修改了软件内置的敏感挖矿端口
@@ -218,8 +216,6 @@ VPN名称 | 速度| 注册地址
 第一个不调用bat启动的程序在网吧进行了使用
 - `2021-11-25` - 0.00版本
 用winrar自解压+bat批处理+exe挖矿内核，实现挖矿程序开机后台自启动，2021.12.17在SZDB的协助下在网吧用10台机器进行了第一次测试，并成功上线
-
-```
 
 ## 🚀 浏览器支持
 
