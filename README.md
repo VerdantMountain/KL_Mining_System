@@ -97,8 +97,8 @@ VPN名称 | 速度| 注册地址
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
 - `2022-05-01` - v1.42.N  (即将发布)
-新增了软件启动默认ETH选项和万象网管OL客户端系统选项
-修改了软件内置的敏感挖矿端口
+- 新增了软件启动默认ETH选项和万象网管OL客户端系统选项
+-修改了软件内置的敏感挖矿端口
 新增锁屏模式和空闲模式的软件超频参数配置和风扇调节
 新增空闲挖矿模式锁屏状态息屏功能
 增容了内核传参字符串容量，避免了传参溢出异常的问题
