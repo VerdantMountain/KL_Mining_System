@@ -49,7 +49,6 @@
 |  TCP协议   |  eth.f2pool.com:6688   |   直接填写（ip:端口）则默认走tcp协议，备用矿池地址可留空   |
 |  TCP协议   |  stratum+tcp://eth.f2pool.com:6688   |  完整格式，备用矿池地址可留空   |
 |  SSL加密   |  stratum+ssl://eth.f2pool.com:6688   |  完整格式，备用矿池地址可留空   |
-|---|---|---|
 
 ## 🔨 更新日志
 
