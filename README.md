@@ -77,9 +77,9 @@ VPN名称 | 速度| 注册地址
 很多矿池主页大陆已经无法正常访问，需要借助VPN工具
 
 ## 🔨 更新日志
-```bash
-- 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
+- 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
+```bash
 - `2022-05-??` - v1.44.N  (即将发布)
 - `2022-05-01` - v1.42.N
 新增了软件启动默认ETH选项和万象网管OL客户端系统选项
@@ -111,7 +111,8 @@ VPN名称 | 速度| 注册地址
 软件启动默认空闲挖矿模式，大幅提升用户上机体验，将上机挖矿改为后台挖矿并调整了挖矿强度参数
 修正了代码中的worker问题
 - `2022-02-18` - v1.30.N
-挖矿程序无法正常挖矿的时候会不停的查询gpu信息，由于显卡驱动的设计缺陷会导致涨爆内存的情况，此版本通过对显卡驱动接口的空占用，防止内核查询gpu信息，从而有效控制内存爆涨
+挖矿程序无法正常挖矿的时候会不停的查询gpu信息，由于显卡驱动的设计缺陷会导致涨爆内存的情况
+此版本通过对显卡驱动接口的空占用，防止内核查询gpu信息，从而有效控制内存爆涨
 禁用了看门狗功能
 - `2022-02-17` - v1.28.N
 增加了火绒，暗黑破坏神3，地下城与勇士备选项，修改了英雄联盟的进程名称字母大小写
