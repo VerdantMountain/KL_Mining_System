@@ -47,7 +47,7 @@
 - 程序调用
 
 ```bash
-网维大师：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
+
 ```
 
 ## 🌭 参数配置
@@ -56,15 +56,6 @@
 |  TCP协议   |  eth.f2pool.com:6688   |  直接填写（ip:端口）则默认走tcp协议，备用矿池地址可留空   |
 |  TCP协议   |  stratum+tcp://eth.f2pool.com:6688   |  完整格式，备用矿池地址可留空   |
 |  SSL加密   |  stratum+ssl://eth.f2pool.com:6688   |  完整格式，备用矿池地址可留空   |
-
-## 🔧 相关工具
-### 👉 翻墙工具：https://i.sw19.icu/kUeN
-
-VPN名称 | 速度| 注册地址
----|---|---
-速蛙云 | 极快| https://i.sw19.icu/kUeN
-
-很多矿池主页大陆已经无法正常访问，需要借助VPN工具
 
 ## 🔨 更新日志
 
@@ -223,19 +214,11 @@ VPN名称 | 速度| 注册地址
 2021.12.17在SZDB的协助下在网吧用10台机器进行了第一次测试，并成功上线
 ```
 
-## 🚀 浏览器支持
+## 🐛 其他事项 🚑🎨🔥💥🌐✨🔧👉🚀
 
-本地开发推荐使用`Chrome 80+` 浏览器
-
-| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt=" Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt=" Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |
-| :-: | :-: | :-: | :-: | :-: |
-| not support | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
-
-## ✨ 特别鸣谢
-特别感谢以下对本软件的发展和发展做出过帮助的人！
+- 速蛙云VPN:https://i.sw19.icu/kUeN
+- 注意事项：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
 - SZDB: 本软件的第一个忠实用户
-
-## 🐛 关于合作 🚑🎨🔥💥🌐
-如有其他业务可以通过下面的方式联系作者
+- 如有其他业务可以通过下面的方式联系作者
 
 <img src="https://github.com/qingshan2048/img/blob/main/weixin.jpg" width="320">
