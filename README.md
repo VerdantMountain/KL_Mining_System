@@ -9,9 +9,9 @@
   <img src="https://img.shields.io/badge/Vite-2.5.0-brightgreen" alt="Vite"/>
 </p>
 
-
+<p align="center">
 # 🌿 矿龙  `智能挖矿系统`
-
+</p>
 ## 💡 软件简介
 
 - **适用范围**：网吧网咖，电竞酒店，数据中心，均适用
