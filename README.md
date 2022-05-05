@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/Vite-2.5.0-brightgreen" alt="Vite"/>
 </p>
 
-# 🌿 矿龙  `智能挖矿系统`
-
-## 💡 软件简介
+## 🌿 矿龙  `智能挖矿系统`
 
 - **适用范围**：网吧网咖，电竞酒店，数据中心，均适用
 - **图形界面**：操作界面干净整洁，简易易懂，配置简洁方便
@@ -211,5 +209,5 @@
 - **机场推荐**：https://i.sw19.icu/kUeN
 - **注意事项**：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
 - **关于作者**：如有其他业务可以通过下面的方式联系作者
-
+## 💡 软件简介
 <img src="https://github.com/qingshan2048/img/blob/main/weixin.jpg" width="320">
