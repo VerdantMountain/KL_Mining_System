@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full Name-KL MinerSystem-blue" alt="Full Name"/>
   <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-blue' alt='Operating System'/>
-  <img src="https://img.shields.io/badge/Miner-NBminer 40.1" alt="Miner"/>
+  <img src="https://img.shields.io/badge/Miner-NBminer 40.1-blue" alt="Miner"/>
 </p>
 
 # 🔥 矿龙  `智能挖矿系统`
