@@ -2,7 +2,7 @@
   <img src="https://github.com/qingshan2048/img/blob/main/ethereum.png" width="260">
 </p>
 <p align="center">
-  <img src='https://img.shields.io/github/license/matevip/matecloud' alt='System'/>
+  <img src='https://img.shields.io/badge/Operating%20System-Winodws%207%2F8%2F9%2F10%2F11-blue' alt='System'/>
   <img src="https://img.shields.io/github/stars/matevip/artemis" alt="Stars"/>
   <img src="https://img.shields.io/badge/VUE-3.2.2-green" alt="VUE"/>
   <img src="https://img.shields.io/badge/VueRouter-4.0.11-blue" alt="vue-router4"/>
