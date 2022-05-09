@@ -52,8 +52,9 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2022-05-00 - v1.46.N  (即将发布)
-增加程序暂停dota备选项
+将锁屏挖矿和空闲挖矿合并成一个文件，大幅缩小软件体积
 修复部分低分辨率电脑软件界面显示不清晰问题
+增加程序暂停dota备选项
 
 2022-05-10 - v1.44.N
 支持NVIDIA显卡30系锁卡算力解锁
