@@ -24,10 +24,10 @@
 
 - 文件可在上方绿色 `Code` 按钮中 `Download ZIP` 处下载，或者右侧 `Releases` 处下载
 
-|  文件名称  |  文件说明  |  文件格式  |
+|  文件名称  |  格式  |  说明  |
 |---|---|---|
-|  KUANGLONG v1.xx.N.exe  |  矿龙智能挖矿系统主程序   |  Windows平台二进制可执行文件   |
-|  README.md  |  程序介绍及使用说明文件   |  Github程序社区md格式说明文件   |
+|  KUANGLONG v1.xx.N.exe  |  Windows平台二进制可执行文件  |  矿龙智能挖矿系统主程序  |
+|  README.md  |  Github程序社区md格式说明文件  |  程序介绍及使用说明文件  |
 
 ## 🔧 安装使用
 
@@ -47,9 +47,9 @@
 
 |  矿池配置  |  格式  |  说明  |
 |---|---|---|
-|  TCP协议  |  eth.f2pool.com:6688   |  填写 (ip:端口) 则默认走tcp协议，备用矿池可留空   |
-|  TCP协议  |  stratum+tcp://eth.f2pool.com:6688   |  完整格式，备用矿池地址可留空   |
-|  SSL加密  |  stratum+ssl://ethssl-asia.f2pool.com:6698   |  完整格式，备用矿池地址可留空   |
+|  TCP协议  |  eth.f2pool.com:6688  |  填写 (ip:端口) 则默认走tcp协议，备用矿池可留空  |
+|  TCP协议  |  stratum+tcp://eth.f2pool.com:6688  |  完整格式，备用矿池地址可留空  |
+|  SSL加密  |  stratum+ssl://ethssl-asia.f2pool.com:6698  |  完整格式，备用矿池地址可留空  |
 
 ## 🔨 更新日志
 
