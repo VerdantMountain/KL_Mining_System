@@ -51,10 +51,13 @@
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
-2022-05- - v1.46.N  (即将发布)
+2022-05-00 - v1.46.N  (即将发布)
+增加dota备选项
+修复部分低分辨率电脑软件界面显示不清晰问题
 
-2022-05-10 - v1.44.N  (即将发布)
+2022-05-10 - v1.44.N
 支持NVIDIA显卡30系锁卡算力解锁
+修正了界面上的建议不选改为高配可选
 
 2022-05-01 - v1.42.N
 新增了软件启动默认ETH选项和万象网管OL客户端系统选项
