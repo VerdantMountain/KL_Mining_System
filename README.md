@@ -52,7 +52,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2022-05-00 - v1.46.N  (即将发布)
-增加dota备选项
+增加程序暂停dota备选项
 修复部分低分辨率电脑软件界面显示不清晰问题
 
 2022-05-10 - v1.44.N
