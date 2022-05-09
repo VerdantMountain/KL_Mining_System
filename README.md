@@ -22,10 +22,7 @@
 
 ## 📝 文件说明
 
-- `KUANGLONG vx.xx.N.exe` - 矿龙智能挖矿系统主程序
-- `README.md` - 程序使用说明文件
-
-- 文件可点击上方绿色`Code`按钮`Download ZIP`处下载或者右侧`Release`处下载
+- 文件可点击上方绿色 `Code` 按钮 `Download ZIP` 处下载或者右侧 `Release` 处下载
 
 |  文件名称  |  文件说明  |  文件格式  |
 |---|---|---|
