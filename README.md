@@ -2,7 +2,7 @@
   <img src="https://github.com/qingshan2048/img/blob/main/ethereum.png" width="260">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full Name-KL MinerSystem-blue" alt="Full Name"/>
+  <img src="https://img.shields.io/badge/Name-KL MinerSystem-blue" alt="Full Name"/>
   <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-blue' alt='Operating System'/>
   <img src="https://img.shields.io/badge/Miner Core-NBminer 41.0-blue" alt="Miner Core"/>
 </p>
@@ -52,6 +52,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2022-05-?? - v1.44.N  (即将发布)
+支持30系锁卡算力解锁
 
 2022-05-01 - v1.42.N
 新增了软件启动默认ETH选项和万象网管OL客户端系统选项
