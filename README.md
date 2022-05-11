@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/qingshan2048/img/blob/main/ethereum.png" width="260">
+  <img src="https://github.com/qingshan2048/img/blob/main/ethereum2.png" width="260">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Full Name-KL MinerSystem-blue" alt="Full Name"/>
