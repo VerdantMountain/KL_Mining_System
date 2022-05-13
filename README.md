@@ -19,6 +19,7 @@
 
 ## 💡 界面展示
 ![Image text](https://github.com/qingshan2048/img/blob/main/zhanshi.png)
+<img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="480">
 
 ## 📝 文件说明
 
