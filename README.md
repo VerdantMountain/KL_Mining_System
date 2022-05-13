@@ -223,5 +223,4 @@
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **注意事项**：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
 - **关于作者**：如有其他业务可以通过下面的方式联系作者
-
-- <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="500">
+<img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="400">
