@@ -17,7 +17,7 @@
 - **软件更新**：软件保持高频率的更新，最大限度的保证与政策和性能的高度兼容
 - **加密数据**：矿龙处理的数据采用了数据加密处理，数据在传输中被通信运营商侦测
 
-## 💡 界面展示
+## 💡 软件展示
 
 <p align="center">
 <img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="640">
