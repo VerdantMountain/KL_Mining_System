@@ -18,7 +18,10 @@
 - **加密数据**：矿龙处理的数据采用了数据加密处理，数据在传输中被通信运营商侦测
 
 ## 💡 界面展示
+
+<p align="center">
 <img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="640">
+</p>
 
 ## 📝 文件说明
 
