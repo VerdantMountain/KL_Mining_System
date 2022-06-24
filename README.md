@@ -231,5 +231,6 @@
                www.baidu.com
 ```
 - **关于作者**：如有其他业务可以通过下面的方式联系作者
-  <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
-
+```bash
+<img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
+```
