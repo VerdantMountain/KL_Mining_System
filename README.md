@@ -224,11 +224,11 @@
 ## 🚑 疑难解决
 
 - 网维大师客户机无法同步挖矿程序的解决方法：https://github.com/qingshan2048/resource#1--%E7%BD%91%E7%BB%B4%E5%A4%A7%E5%B8%88%E5%AE%A2%E6%88%B7%E6%9C%BA%E6%97%A0%E6%B3%95%E5%90%8C%E6%AD%A5%E6%8C%96%E7%9F%BF%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
+- 网维大师调用的问题：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
 
 ## 🐛 相关资源 🎨💥🌐✨👉🚀🌿🍯
 
 - **机场推荐**：https://i.sw19.icu/kUeN
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
-- **注意事项**：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
 - **关于作者**：如有其他业务可以通过下面的方式联系作者
 - <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
