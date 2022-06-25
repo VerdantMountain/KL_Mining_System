@@ -25,7 +25,7 @@
 
 ## 📝 文件说明
 
-- 文件可在上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载，或者右侧 [Releases] 里下载
+- 文件可在上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载，或者右侧 Releases 里下载
 
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
