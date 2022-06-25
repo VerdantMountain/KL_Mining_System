@@ -25,7 +25,7 @@
 
 ## 📝 文件说明
 
-- 文件可在上方绿色 `Code` 按钮中点击 `Download ZIP` 下载，或者右侧 `Releases` 里下载
+- 文件可在上方绿色 `Code` <img src="https://img.shields.io/badge/code-brightgreen"/>按钮中点击 `Download ZIP` 下载，或者右侧 `Releases` 里下载
 
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
@@ -230,4 +230,5 @@
 - **机场推荐**：https://i.sw19.icu/kUeN
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **注意事项**：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
-- **关于作者**：如有其他业务可以通过下面的方式联系作者     <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
+- **关于作者**：如有其他业务可以通过下面的方式联系作者
+- <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
