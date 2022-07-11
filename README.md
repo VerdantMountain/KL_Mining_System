@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full Name-KL MinerSystem-blue" alt="Full Name"/>
   <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-blue' alt='Operating System'/>
-  <img src="https://img.shields.io/badge/Miner Core-NBminer 41.0-blue" alt="Miner Core"/>
+  <img src="https://img.shields.io/badge/Miner Core-NBminer 42.2-blue" alt="Miner Core"/>
 </p>
 
 # 🔥 矿龙  `网吧挖矿系统`
@@ -60,7 +60,7 @@
 ```bash
 2022-05-00 - v1.46.N  (即将发布)
 优化了矿龙产品发布页的LOGO和联系作者图片以及软件的LOGO
-升级了挖矿内核，由nbminer41.0升级到nbminer41.3
+升级了挖矿内核，由nbminer41.0升级到nbminer42.2
 //将锁屏挖矿和空闲挖矿生成文件合并成一个文件，大幅缩小软件体积
 修复部分低分辨率电脑软件界面显示不清晰问题
 增加程序暂停dota备选项
