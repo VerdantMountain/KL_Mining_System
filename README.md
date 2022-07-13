@@ -58,7 +58,8 @@
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
-2022-05-00 - v1.46.N  (即将发布)
+2022-07-00 - v1.48.N  (即将发布)
+2022-07-13 - v1.46.N
 优化了矿龙产品发布页的LOGO和联系作者图片以及软件的LOGO
 升级了挖矿内核，由nbminer41.0升级到nbminer42.2
 //将锁屏挖矿和空闲挖矿生成文件合并成一个文件，大幅缩小软件体积
