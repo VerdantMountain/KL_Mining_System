@@ -23,7 +23,7 @@
 <img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="640">
 </p>
 
-## 📝 文件说明
+## 📝 文件下载
 
 - 文件可在上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载，或者右侧 Releases 里下载
 
