@@ -59,7 +59,8 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2022-00-00 - v1.48.N  (即将发布)
-//测试了《龙管家计费系统》开机后客户端有倒计时关闭
+将底部的矿龙智能挖矿官网修改为矿龙网吧挖矿官网
+测试了《龙管家计费系统》开机后客户端有倒计时关闭
 -服务端需要连接服务器并且略微不稳定
 2022-07-13 - v1.46.N
 优化了矿龙产品发布页的LOGO和联系作者图片以及软件的LOGO
