@@ -2,9 +2,9 @@
   <img src="https://github.com/qingshan2048/img/blob/main/ethereum2.png" width="260">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full Name-KL MinerSystem-blue" alt="Full Name"/>
-  <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-blue' alt='Operating System'/>
-  <img src="https://img.shields.io/badge/Miner Core-NBminer 42.2-blue" alt="Miner Core"/>
+  <img src="https://img.shields.io/badge/Full Name-KL MinerSystem-blue?logo=Windows Terminal" alt="Full Name"/>
+  <img src="https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-blue?logo=Windows" alt="Operating System"/>
+  <img src="https://img.shields.io/badge/Miner Core-NBminer 42.2-blue?logo=Ethereum" alt="Miner Core"/>
 </p>
 
 # 🔥 矿龙  `网吧挖矿系统`
