@@ -233,7 +233,8 @@
 
 ## 🐛 相关资源 🎨💥🌐✨👉🚀🌿🍯
 
+- **官方推特**：https://twitter.com/KL_MiningSystem
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
-- **关于作者**：如有其他业务可以通过下面的方式联系作者
+- **联系作者**：如有其他业务可以通过下面的方式联系作者
 - <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
