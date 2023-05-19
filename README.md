@@ -60,7 +60,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 v1.48.k  (即将发布)
-2023.05.19 将软件的版本号后缀由N改为k
+2023.05.19 
 测试了《龙管家计费系统》开机后客户端有倒计时关闭
 -服务端需要连接服务器并且略微不稳定
 将底部的矿龙智能挖矿官网修改为矿龙网吧挖矿官网
