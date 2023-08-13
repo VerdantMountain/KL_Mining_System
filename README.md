@@ -59,7 +59,8 @@
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
-2023-00-00 v1.48.n  (即将发布)
+2023-00-00 v1.48.0  (即将发布)
+2023.08.13 增加了dnx矿币
 2023.05.19 将版本号的大写N改为小写n
 测试了《龙管家计费系统》开机后客户端有倒计时关闭
 -服务端需要连接服务器并且略微不稳定
