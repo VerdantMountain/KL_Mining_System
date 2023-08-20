@@ -59,7 +59,8 @@
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
-2023-08-13 v1.48.0  (即将发布)
+2023-08-19 v1.48.2
+2023-08-19 允许后台满算力挖矿
 
 2023-08-13 v1.48.1
 2023-08-13 更换独角兽为默认矿池地址（国内需要结合vpn使用）
