@@ -59,6 +59,8 @@
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
+2023-08-28 增加了对屏蔽进程检测的灵敏度
+
 2023-08-19 v1.48.2
 2023-08-19 允许后台满算力挖矿
 
