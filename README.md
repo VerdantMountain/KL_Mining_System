@@ -60,6 +60,8 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 
+
+2023-09-05 完成了遇到带有关键字的窗口后立刻退出挖矿的功能
 2023-09-01 整合了onezerominer内核依赖文件6abfdd7f707d155da0ecef6242593c19.bin，无须额外下载
 
 2023-08-31 v1.48.3
