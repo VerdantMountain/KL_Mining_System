@@ -58,7 +58,7 @@
 
 ## 🔨 参数设置
 
-- 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
+- 使用：将生成程序放在磁盘任意文件夹内并设置开机启动即可。参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 
 |  功能  |  设置  |  说明  |
 |---|---|---|
@@ -66,7 +66,7 @@
 |  暂停挖矿  |  暂停选项卡中配置  |  设置暂停挖矿的进程以及窗口标题等  |
 |  退出挖矿  |  退出选项卡中配置  |  设置退出挖矿的进程以及窗口标题等  |
 
-- 注意：我们并不建议使用非加密的TCP端口，以防中间人攻击，侵吞您的算力。
+- 注意：程序为后台挖矿，没有任何界面，若矿池上线较慢可稍等。
 
 ## 🚑 疑难解决
 
