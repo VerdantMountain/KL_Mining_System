@@ -72,6 +72,7 @@
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
+[![Image](https://raw.githubusercontent.com/qingshan2048/img/main/weixin2.png)]
 ```bash
 <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
 ![图像描述](https://github.com/qingshan2048/img/blob/main/weixin2.png)
