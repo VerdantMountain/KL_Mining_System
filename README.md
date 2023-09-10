@@ -23,15 +23,6 @@
 <img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="640">
 </p>
 
-## 📝 文件下载
-
-- 应用程序可在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中下载（上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 可下载工程文件）
-
-|  文件名称  |  说明  |  格式  |
-|---|---|---|
-|  KL Mining System v1.xx.x.exe  |  矿龙网吧挖矿系统主程序  |  Windows系统 二进制可执行文件  |
-|  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
-
 ## 🌐 矿池连接
 
 - 目前大陆地区已经无法直连矿池，需要[中转](https://github.com/VerdantMountain/KL-Mining-System#-%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90-)服务器等方式连接矿池，以下格式仅作示范
@@ -45,6 +36,13 @@
 - 注意：我们并不建议使用非加密的TCP端口，以防中间人攻击，侵吞您的算力。
 
 ## 🔧 安装使用
+
+- 应用程序可在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中下载（上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 可下载工程文件）
+
+|  文件名称  |  说明  |  格式  |
+|---|---|---|
+|  KL Mining System v1.xx.x.exe  |  矿龙网吧挖矿系统主程序  |  Windows系统 二进制可执行文件  |
+|  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
 
 - 运行系统 Windows 7/8/10/11
 
@@ -68,7 +66,7 @@
 - 网维大师客户机无法同步挖矿程序的解决方法：https://github.com/qingshan2048/resource#%E7%9F%BF%E9%BE%99%E7%BD%91%E7%BB%B4%E5%A4%A7%E5%B8%88%E5%AE%A2%E6%88%B7%E6%9C%BA%E6%97%A0%E6%B3%95%E5%90%8C%E6%AD%A5%E6%8C%96%E7%9F%BF%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
 - 网维大师调用的问题：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
 
-## 🐛 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨
+## 🐛 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨📝
 
 - **官方推特**：https://twitter.com/VerdantMountain
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
