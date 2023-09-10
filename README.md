@@ -25,7 +25,7 @@
 
 ## 📝 文件下载
 
-- 文件可在上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载，或者右侧 Releases 里下载
+- 文件可在上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载，或者右侧 [Releases]([https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md](https://github.com/VerdantMountain/KL-Mining-System/releases)) 中下载
 
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
@@ -58,7 +58,7 @@
 
 ## 🔨 参数设置
 
-- 使用：将生成程序放在磁盘任意文件夹内并设置开机启动即可。参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
+- 使用：将生成程序放在磁盘任意文件夹内并设置开机启动即可。
 
 |  功能  |  设置  |  说明  |
 |---|---|---|
