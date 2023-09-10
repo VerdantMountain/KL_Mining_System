@@ -75,4 +75,5 @@
 ```bash
 <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
 ![图像描述](https://github.com/qingshan2048/img/blob/main/weixin2.png)
+[![Image](https://raw.githubusercontent.com/qingshan2048/img/main/weixin2.png)]
 ```
