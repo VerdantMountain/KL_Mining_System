@@ -25,7 +25,7 @@
 
 ## 📝 文件下载
 
-- 文件可在上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载，或者右侧 [Releases]([https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md](https://github.com/VerdantMountain/KL-Mining-System/releases)) 中下载
+- 文件可在上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载，或者右侧 [Releases](https://github.com/VerdantMountain/KL-Mining-System/releases)) 中下载
 
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
