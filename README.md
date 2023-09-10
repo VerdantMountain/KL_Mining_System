@@ -44,20 +44,30 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-## 🌭 参数格式
+## 🌭 矿池连接
 
 - 目前大陆地区已经无法直连矿池，需要中转服务器等方式连接矿池，以下格式仅作示范
 
-|  矿池配置  |  格式  |  说明  |
+|  协议  |  格式  |  说明  |
 |---|---|---|
 |  TCP协议  |  eth.f2pool.com:6688  |  填写 (ip:端口) 则默认走tcp协议，备用矿池可留空  |
 |  TCP协议  |  stratum+tcp://eth.f2pool.com:6688  |  挖矿地址的完整格式，备用矿池地址可留空  |
 |  SSL加密  |  stratum+ssl://ethssl-asia.f2pool.com:6698  |  挖矿地址的完整格式，备用矿池地址可留空  |
+
 - 注意：我们并不建议使用非加密的TCP端口，以防中间人攻击，侵吞您的算力。
 
-## 🔨 更新日志
+## 🔨 参数设置
 
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
+
+|  功能  |  设置  |  说明  |
+|---|---|---|
+|  空闲时间  |  单位为分钟  |  设置分钟内无任何键鼠操作后挖矿  |
+|  暂停挖矿  |  暂停选项卡中配置  |  设置暂停挖矿的进程以及窗口标题等  |
+|  退出挖矿  |  退出选项卡中配置  |  设置退出挖矿的进程以及窗口标题等  |
+
+- 注意：我们并不建议使用非加密的TCP端口，以防中间人攻击，侵吞您的算力。
+
 ```bash
 2023-08-31 v1.48.3
 2023-08-31 增加了删除日志文件和附加参数的功能
