@@ -20,7 +20,7 @@
 ## 💡 软件展示
 
 <p align="center">
-<img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="480">
+<img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="500">
 </p>
 
 ## 🌐 矿池连接
