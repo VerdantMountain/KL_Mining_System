@@ -74,4 +74,5 @@
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
 ```bash
 <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
+![图像描述](https://github.com/qingshan2048/img/blob/main/weixin2.png)
 ```
