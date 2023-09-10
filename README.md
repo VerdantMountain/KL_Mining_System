@@ -73,5 +73,5 @@
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
 - <img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
-- ![```img```](https://github.com/qingshan2048/img/blob/main/weixin2.png) 
+![```img```](https://github.com/qingshan2048/img/blob/main/weixin2.png) 
 
