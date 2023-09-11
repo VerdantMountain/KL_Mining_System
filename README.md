@@ -26,13 +26,13 @@
 ## 🌐 矿池连接
 
 - 目前大陆地区已经无法直连矿池，需要[中转](https://github.com/VerdantMountain/KL-Mining-System#-%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90-)服务器等方式连接矿池，以下格式仅作示范
-<blockquote>
+
 |  协议  |  格式  |  说明  |
 |---|---|---|
 |  TCP协议  |  eth.f2pool.com:6688  |  填写 (ip: 端口) 则默认tcp协议，备池可留空  |
 |  TCP协议  |  stratum+tcp://eth.f2pool.com:6688  |  挖矿地址的完整格式，备用矿池地址可留空  |
 |  SSL加密  |  stratum+ssl://asia.f2pool.com:6698  |  挖矿地址的完整格式，备用矿池地址可留空  |
-</blockquote>
+
 - 注意：我们并不建议使用非加密的TCP端口，以防中间人攻击，侵吞您的算力。
 
 ## 🔧 安装使用
@@ -72,5 +72,5 @@
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
-<br><img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480">
+<br><img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480"></br>
 
