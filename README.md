@@ -40,7 +40,7 @@
 <details>
 <summary> 1. 📥 下载 / Download </summary>
   
-          方法：应用程序在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中挑选所需版本下载 或者 上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载工程文件
+  下载方法：应用程序在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中挑选所需版本下载 或者 上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载工程文件
 </details>
 
 |  文件名称  |  说明  |  格式  |
@@ -51,8 +51,7 @@
 <details>
 <summary> 2. ▶️ 运行 / Running </summary>
   
-  - Windows 10 系统（暂不支持英文版）
-  - Windows 11 系统（暂不支持英文版）
+  支持系统：Windows 10 系统 和 Windows 11 系统
 </details>
 
 |  模式  |  设置  |  说明  |
