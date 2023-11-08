@@ -37,12 +37,12 @@
   
   - 应用程序在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中挑选所需版本下载 或者 上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载工程文件
 </details>
-<br>
+
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
 |  KL Mining System v1.xx.x.exe  |  矿龙网吧挖矿系统主程序  |  Windows系统 二进制可执行文件  |
 |  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
-</br>
+
 <details>
 <summary> 2. ▶️ 运行 / Running（点此查看支持系统）</summary>
   
