@@ -52,7 +52,9 @@
 <summary> 2. ▶️ 运行 / Running </summary>
   
   ```bash
-  支持系统：Windows 10 系统 和 Windows 11 系统
+  支持系统：
+  Windows 10 系统（暂不支持英文版）
+  Windows 11 系统（暂不支持英文版）
   ```
 </details>
 
