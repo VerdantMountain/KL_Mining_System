@@ -52,8 +52,10 @@
 |  锁屏模式  |  在锁屏模式选项卡中配置挖矿参数  |  当检测到计算机处于锁屏状态时则启动挖矿  |
 <details>
 <summary> 2. ▶️ 运行 / Running </summary>
+  
 - Windows 10 系统（暂不支持英文版）
 - Windows 11 系统（暂不支持英文版）
+
 </details>
 
 3. 🧰 配置 / Configuration
