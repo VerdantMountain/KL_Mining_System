@@ -16,14 +16,8 @@
 - **特色功能**：可以对显存进行检测并智能躲避大型游戏，优先保证客户体验
 - **数据安全**：软件处理的数据采用数据加密处理，确保了数据传输过程中的安全
 - **更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配
-<br></br>
+<p align="center"></p>
 <br><img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="560"></br>
-
-##  软件版面
-
-<p align="center">
-<img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="500">
-</p>
 
 ## 🌐 矿池连接
 
@@ -37,7 +31,7 @@
 
 - 注意：我们并不建议使用非加密的TCP端口，以防中间人攻击，侵吞您的算力。
 
-## 🔧🖥 安装使用
+## 🖥 安装使用
 
 <details>
 <summary> 1. 📥 下载 / Download（点此查看下载方法）</summary>
@@ -80,7 +74,7 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-## 📦 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅⚙🖥🐛🚑💡
+## 📦 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅⚙🐛🚑💡🔧
 
 - **官方推特**：https://twitter.com/VerdantMountain
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
