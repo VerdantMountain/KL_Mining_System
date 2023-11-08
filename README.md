@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Miner Core-NBminer 42.2-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
 
-# 🔥 矿龙  `网吧挖矿系统`
+# 🥇 矿龙  `网吧挖矿系统`
 
 - **适用场景**：网吧网咖，电竞酒店，数据中心，均适用
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
@@ -73,11 +73,12 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-## 📦 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅⚙🐛🚑💡🔧🥇
+## 📦 相关资源
 
 - **官方推特**：https://twitter.com/VerdantMountain
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
 <br><img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480"></br>
+🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅⚙🐛🚑💡🔧🔥🍉🥰⛸🐌📭🍹📕🥥🥨🗂️🍤🥍🍌📺😀🐬
 
