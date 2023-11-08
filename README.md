@@ -37,21 +37,21 @@
 
 ## 🔧 安装使用
 
-- 应用程序可在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中下载（上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 可下载工程文件）
+1. 📁 下载 / Download 应用程序可在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中下载（上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 可下载工程文件）
 
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
 |  KL Mining System v1.xx.x.exe  |  矿龙网吧挖矿系统主程序  |  Windows系统 二进制可执行文件  |
 |  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
 
-2. ▶️ 运行系统 Windows 10 / Windows 11
+2. ▶️ 运行 / Running（系统 Windows 10 / Windows 11）
 
 |  模式  |  设置  |  说明  |
 |---|---|---|
 |  空闲模式  |  在空闲模式选项卡中配置挖矿参数  |  当键鼠在单位分钟内没有操作时则启动挖矿  |
 |  锁屏模式  |  在锁屏模式选项卡中配置挖矿参数  |  当检测到计算机处于锁屏状态时则启动挖矿  |
 
-3. ⚙ 配置挖矿程序
+3. ⚙ 配置 / Config
 
 ```bash
 1.双击运行软件，配置参数，选择输出目录，生成挖矿程序
