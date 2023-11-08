@@ -73,7 +73,7 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-## 📦 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅⚙🐛🚑💡🔧
+## 📦 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅⚙🐛🚑💡🔧🥇
 
 - **官方推特**：https://twitter.com/VerdantMountain
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
