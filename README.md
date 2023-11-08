@@ -17,9 +17,9 @@
 - **数据安全**：软件处理的数据采用数据加密处理，确保了数据传输过程中的安全
 - **更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配
 <br></br>
-<br><img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="600"></br>
+<br><img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="560"></br>
 
-## 💡 软件版面
+##  软件版面
 
 <p align="center">
 <img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="500">
@@ -80,7 +80,7 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-## 📦 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅⚙🖥🐛🚑
+## 📦 相关资源 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅⚙🖥🐛🚑💡
 
 - **官方推特**：https://twitter.com/VerdantMountain
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
