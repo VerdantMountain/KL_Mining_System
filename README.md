@@ -64,7 +64,7 @@
 |  锁屏模式  |  在锁屏模式选项卡中配置挖矿参数  |  当检测到计算机处于锁屏状态时则启动挖矿  |
 
 <details>
-<summary> 3. 🧰 配置 / Configuration（点此查看疑难问题）</summary>
+<summary> 3. 🧰 配置 / Configuration（🚑 点此查看疑难问题）</summary>
   
   - 网维大师客户机无法同步挖矿程序的解决方法：https://github.com/VerdantMountain/resource#%E7%9F%BF%E9%BE%99%E7%BD%91%E7%BB%B4%E5%A4%A7%E5%B8%88%E5%AE%A2%E6%88%B7%E6%9C%BA%E6%97%A0%E6%B3%95%E5%90%8C%E6%AD%A5%E6%8C%96%E7%9F%BF%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
   - 网维大师调用的问题：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
@@ -78,7 +78,7 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-## 🚑 疑难解决
+##  疑难解决
 
 - 网维大师客户机无法同步挖矿程序的解决方法：https://github.com/qingshan2048/resource#%E7%9F%BF%E9%BE%99%E7%BD%91%E7%BB%B4%E5%A4%A7%E5%B8%88%E5%AE%A2%E6%88%B7%E6%9C%BA%E6%97%A0%E6%B3%95%E5%90%8C%E6%AD%A5%E6%8C%96%E7%9F%BF%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
 - 网维大师调用的问题：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
