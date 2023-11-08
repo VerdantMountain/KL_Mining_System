@@ -40,11 +40,9 @@
 <details>
 <summary> 1. 📥 下载 / Download </summary>
   
-  - 在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中挑选所需版本下载
+  - 应用程序在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中挑选所需版本下载
   - 上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载工程文件
 </details>
-
-1. 📥 下载 / Download（在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中下载 或者 上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载工程文件）
 
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
