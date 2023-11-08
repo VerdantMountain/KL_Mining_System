@@ -48,8 +48,8 @@
 |  KL Mining System v1.xx.x.exe  |  矿龙网吧挖矿系统主程序  |  Windows系统 二进制可执行文件  |
 |  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
 
-<details>2. 飞弹发射
-<summary> 2. ▶️ 运行 / Running </summary>
+<details>
+<summary> 2. ▶️ 运行 / Running（点此查看支持系统）</summary>
   
   ```bash
   支持系统：
