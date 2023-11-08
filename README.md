@@ -45,8 +45,9 @@
 |  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
 
 <details>
-<summary> 2. ▶️ 运行 / Running </summary>- Windows 10 系统（暂不支持英文版）
-- Windows 11 系统（暂不支持英文版）
+<summary> 2. ▶️ 运行 / Running </summary>
+  - Windows 10 系统（暂不支持英文版）
+  - Windows 11 系统（暂不支持英文版）
 </details>
 
 |  模式  |  设置  |  说明  |
