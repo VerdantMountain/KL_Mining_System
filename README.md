@@ -6,17 +6,8 @@
   <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
   <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
+
 <div align="center">
-
-[English](README-EN.md) | 简体中文
-
-[![License: MIT](https://img.shields.io/github/license/johnserf-seed/tiktokdownload?style=for-the-badge)](https://github.com/Johnserf-Seed/TikTokDownload/blob/main/LICENSE)
-![Release Download](https://img.shields.io/github/downloads/Johnserf-Seed/TikTokDownload/total?style=for-the-badge)
-![GitHub Repo size](https://img.shields.io/github/repo-size/Johnserf-Seed/TikTokDownload?style=for-the-badge&color=3cb371)
-[![GitHub Repo Languages](https://img.shields.io/github/languages/top/Johnserf-Seed/TikTokDownload?style=for-the-badge)](https://github.com/BeyondDimension/SteamTools/search?l=c%23)
-[![Python v3.11.1](https://img.shields.io/badge/python-v3.11.1-orange?style=for-the-badge)](https://github.com/Johnserf-Seed/TikTokDownload)
-![Terminal: wt](https://img.shields.io/badge/Terminal-wt-blue?style=for-the-badge)
-
 [![GitHub Stars](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
 [![GitHub Forks](https://img.shields.io/github/forks/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
 [![GitHub Issues](https://img.shields.io/github/issues/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
@@ -26,7 +17,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohnserf-Seed%2FTikTokDownload&count_bg=%235FFFFF&title_bg=%23FB1953&icon=tiktok.svg&icon_color=%23250C1F&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Discord](https://img.shields.io/discord/1070512513889878067?color=5865F2&logo=discord&logoColor=white?style=for-the-badge)](https://discord.gg/q3hA8qQZbG)
 [![Patreon](https://img.shields.io/badge/Patreon-TikTokDownload-red.svg?style=flat&logo=patreon)](https://www.patreon.com/TikTokDownload713)
-
 </div>
 
 # 🥇 矿龙 - 网吧挖矿系统
