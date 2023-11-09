@@ -79,7 +79,6 @@
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
-<br></br>
 <br><img src="https://github.com/VerdantMountain/resource/blob/main/KL_weixin.png" width="480"></br>
 
 <!--
