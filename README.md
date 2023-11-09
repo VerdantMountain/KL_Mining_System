@@ -8,6 +8,7 @@
 </p>
 
 <div align="center">
+
 [![GitHub Stars](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
 [![GitHub Forks](https://img.shields.io/github/forks/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
 [![GitHub Issues](https://img.shields.io/github/issues/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
