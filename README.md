@@ -73,8 +73,6 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-![赞赏](https://github.com/qingshan2048/img/blob/main/zhanshi.png)
-
 ## 📦 相关资源
 
 - **官方推特**：https://twitter.com/VerdantMountain
@@ -84,4 +82,5 @@
 <br><img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480"></br>
 - 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅❌🔘⌛
   - ⚙🐛🚑💡🔧🔥🍉🥰⛸🐌📭🍹📕🥥🥨🗂️🍤🥍🍌📺😀🐬
+![Contributors](https://contributors-img.web.app/image?repo=Johnserf-Seed/TikTokDownload)
 
