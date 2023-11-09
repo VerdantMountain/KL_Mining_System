@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
   <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
-
 <div align="center">
 
 [![GitHub Stars](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
