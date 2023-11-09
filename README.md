@@ -73,7 +73,7 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-<img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png">
+![赞赏](https://github.com/qingshan2048/img/blob/main/zhanshi.png)
 
 ## 📦 相关资源
 
