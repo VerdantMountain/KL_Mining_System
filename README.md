@@ -6,10 +6,14 @@
   <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
   <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
+
+<!--
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=VerdantMountain">
     <img src="https://img.shields.io/twitter/follow/VerdantMountain?style=social&logo=X" alt="follow on Twitter"></a>
 </p>
+-->
+
 <div align="center">
 
 [![GitHub Stars](https://img.shields.io/twitter/follow/VerdantMountain?style=social&logo=X)](https://twitter.com/intent/follow?screen_name=VerdantMountain)
@@ -17,7 +21,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
 [![GitHub Issues](https://img.shields.io/github/issues/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
-
 </div>
 
 # 🥇 矿龙 - 网吧挖矿系统
