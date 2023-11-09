@@ -20,8 +20,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/VerdantMountain?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
 [![GitHub Stars](https://img.shields.io/github/stars/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
 [![GitHub Forks](https://img.shields.io/github/forks/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
-[![GitHub Open Issues](https://img.shields.io/github/issues/VerdantMountain/KL-Mining-System?style=social&label=Open Issues)](https://github.com/VerdantMountain/KL-Mining-System)
-[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/VerdantMountain/KL-Mining-System?style=social&label=Closed Issues)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Open Issues](https://img.shields.io/github/issues/VerdantMountain/KL-Mining-System?style=social&label=OpenIssues)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/VerdantMountain/KL-Mining-System?style=social&label=ClosedIssues)](https://github.com/VerdantMountain/KL-Mining-System)
 </div>
 
 # 🥇 矿龙 - 网吧挖矿系统
