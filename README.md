@@ -80,7 +80,8 @@
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
 <br><img src="https://github.com/VerdantMountain/resource/blob/main/weixin2.png" width="480"></br>
+<!--
 ![Contributors](https://contributors-img.web.app/image?repo=Johnserf-Seed/TikTokDownload)
 - 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅❌🔘⌛
   - ⚙🐛🚑💡🔧🔥🍉🥰⛸🐌📭🍹📕🥥🥨🗂️🍤🥍🍌📺😀🐬
-
+-->
