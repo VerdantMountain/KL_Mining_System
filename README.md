@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=shields_io">
-    <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=X" alt="follow on Twitter"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=VerdantMountain">
+    <img src="https://img.shields.io/twitter/follow/VerdantMountain?style=social&logo=X" alt="follow on Twitter"></a>
 </p>
 <div align="center">
 
