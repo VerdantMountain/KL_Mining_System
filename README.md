@@ -80,7 +80,7 @@
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **联系作者**：如有其他业务可以通过下面的方式联系作者
 <br><img src="https://github.com/qingshan2048/img/blob/main/weixin2.png" width="480"></br>
-<br width="280">![Contact](https://github.com/qingshan2048/img/blob/main/weixin2.png)</br>
+<br>![Contact](https://github.com/qingshan2048/img/blob/main/weixin2.png)</br>
 - 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅❌🔘⌛
   - ⚙🐛🚑💡🔧🔥🍉🥰⛸🐌📭🍹📕🥥🥨🗂️🍤🥍🍌📺😀🐬
 
