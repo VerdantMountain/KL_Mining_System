@@ -6,17 +6,12 @@
   <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
   <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Software Name-KL Mining System-blue?logo=Windows Terminal" alt="Full Name"/>
-  <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
-  <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
-</p>
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
-[![GitHub Forks](https://img.shields.io/github/forks/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
-[![GitHub Issues](https://img.shields.io/github/issues/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
-[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/johnserf-seed/tiktokdownload?style=social)](https://github.com/Johnserf-Seed/TikTokDownload)
+[![GitHub Stars](https://img.shields.io/github/stars/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Forks](https://img.shields.io/github/forks/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Issues](https://img.shields.io/github/issues/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
 
 [![jsDelivr monthly hits](https://data.jsdelivr.com/v1/package/gh/Johnserf-Seed/TikTokDownload/badge)](https://www.jsdelivr.com/package/gh/Johnserf-Seed/TikTokDownload)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohnserf-Seed%2FTikTokDownload&count_bg=%235FFFFF&title_bg=%23FB1953&icon=tiktok.svg&icon_color=%23250C1F&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
