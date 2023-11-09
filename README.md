@@ -73,6 +73,8 @@
 3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
+https://github.com/qingshan2048/img/blob/main/weixin2.png
+
 ## 📦 相关资源
 
 - **官方推特**：https://twitter.com/VerdantMountain
