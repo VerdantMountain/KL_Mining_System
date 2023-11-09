@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/qingshan2048/img/blob/main/ethereum2.png" width="260">
+  <img src="https://github.com/VerdantMountain/resource/blob/main/ethereum2.png" width="260">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Program Name-KL Mining System-blue?logo=Windows Terminal" alt="Full Name"/>
@@ -17,7 +17,7 @@
 - **数据安全**：软件处理的数据采用数据加密处理，确保了数据传输过程中的安全
 - **更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配
 <br></br>
-<br><img src="https://github.com/qingshan2048/img/blob/main/zhanshi.png" width="560"></br>
+<br><img src="https://github.com/VerdantMountain/resource/blob/main/zhanshi.png" width="560"></br>
 ## 🌐 矿池连接
 
 - 目前大陆地区已经无法直连矿池，需要[中转](https://github.com/VerdantMountain/KL-Mining-System#-%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90-%EF%B8%8F)服务器等方式连接矿池，以下格式仅作示范
