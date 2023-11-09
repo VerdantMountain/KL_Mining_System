@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/twitter/follow/VerdantMountain?style=social&logo=X" alt="follow on Twitter"></a>
 </p>
 -->
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:VerdantMountain)
 
 <div align="center">
 
