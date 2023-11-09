@@ -14,6 +14,7 @@
 </p>
 -->
 
+<!--
 <div align="center">
 
 [![X Follow](https://img.shields.io/twitter/follow/VerdantMountain?style=social&logo=X)](https://twitter.com/intent/follow?screen_name=VerdantMountain)
@@ -23,6 +24,7 @@
 [![GitHub Open Issues](https://img.shields.io/github/issues/VerdantMountain/KL-Mining-System?style=social&label=Open%20Issues)](https://github.com/VerdantMountain/KL-Mining-System)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/VerdantMountain/KL-Mining-System?style=social&label=Closed%20Issues)](https://github.com/VerdantMountain/KL-Mining-System)
 </div>
+-->
 
 # 🥇 矿龙 - 网吧挖矿系统
 
