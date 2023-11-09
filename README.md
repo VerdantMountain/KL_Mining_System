@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/twitter/follow/VerdantMountain?style=social&logo=X" alt="follow on Twitter"></a>
 </p>
 -->
+![GitHub](https://img.shields.io/github/license/:user/:repo)
 
 <div align="center">
 
