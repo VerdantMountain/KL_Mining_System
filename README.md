@@ -12,7 +12,9 @@
 [![GitHub Forks](https://img.shields.io/github/forks/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
 [![GitHub Issues](https://img.shields.io/github/issues/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
-
+<a href="https://twitter.com/intent/follow?screen_name=shields_io">
+        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=X"
+            alt="follow on Twitter"></a>
 [![jsDelivr monthly hits](https://data.jsdelivr.com/v1/package/gh/Johnserf-Seed/TikTokDownload/badge)](https://www.jsdelivr.com/package/gh/Johnserf-Seed/TikTokDownload)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohnserf-Seed%2FTikTokDownload&count_bg=%235FFFFF&title_bg=%23FB1953&icon=tiktok.svg&icon_color=%23250C1F&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Discord](https://img.shields.io/discord/1070512513889878067?color=5865F2&logo=discord&logoColor=white?style=for-the-badge)](https://discord.gg/q3hA8qQZbG)
