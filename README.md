@@ -2,7 +2,7 @@
   <img src="https://github.com/VerdantMountain/resource/blob/main/ethereum2.png" width="260">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Program Name-KL Mining System-blue?logo=Windows Terminal" alt="Full Name"/>
+  <img src="https://img.shields.io/badge/Software Name-KL Mining System-blue?logo=Windows Terminal" alt="Full Name"/>
   <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
   <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
