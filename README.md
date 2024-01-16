@@ -63,7 +63,7 @@
 |  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
 
 <details>
-<summary> 2. 🧰 配置 / Configuration（点此查看支持系统）</summary>
+<summary> 2. ⚙ 配置 / Configuration（点此查看支持系统）</summary>
   
   ```bash
   支持系统：
@@ -103,6 +103,6 @@
 <!--
 ![Contributors](https://contributors-img.web.app/image?repo=Johnserf-Seed/TikTokDownload)
 ![Contributors](https://github.com/qingshan2048/img/blob/main/KL_weixin.png)
-- 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅❌🔘⌛
-  - ⚙🐛🚑💡🔧🔥🍉🥰⛸🐌📭🍹📕🥥🥨🗂️🍤🥍🍌📺😀🐬
+- 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅❌🔘⌛🧰
+  - ⚙🐛🚑💡🔧🔥🍉🥰⛸🐌📭🍹📕🥥🥨🗂️🍤🥍🍌📺😀🐬🐞📃🕹️
 -->
