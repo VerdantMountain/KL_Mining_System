@@ -36,6 +36,7 @@
 - **数据安全**：软件处理的数据采用数据加密处理，确保了数据传输过程中的安全
 - **更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配
 <br>**更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配</br>
+<br>**更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配</br>
 <br><img src="https://github.com/VerdantMountain/resource/blob/main/kl_mining_system_github_banner_2.png" width="760"></br>
 ## 🌐 矿池连接
 
