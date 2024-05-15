@@ -97,7 +97,7 @@
 - **官方推特**：https://twitter.com/VerdantMountain
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
-- **联系作者**：如有其他业务可以通过下面的方式联系作者
+- **技术支持**：如有技术问题或业务合作等可通过下面的方式联系我们
 <br><img src="https://github.com/VerdantMountain/resource/blob/main/verdantmountain_github_wechat_002.png" width="480"></br>
 
 <!--
