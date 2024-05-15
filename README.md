@@ -98,7 +98,7 @@
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
 - **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
 - **技术支持**：如有技术问题或业务合作等事宜可通过下面的方式联系我们
-<br><img src="https://github.com/VerdantMountain/resource/blob/main/verdantmountain_github_wechat_002.png" width="480"></br>
+<br><img src="https://github.com/VerdantMountain/resource/blob/main/verdant_mountain_github_wechat_002.png" width="480"></br>
 
 <!--
 ![Contributors](https://contributors-img.web.app/image?repo=Johnserf-Seed/TikTokDownload)
