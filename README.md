@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VerdantMountain/resource/blob/main/kl_mining_system_github_logo.png" width="240">
+  <img src="https://github.com/VerdantMountain/KL_Mining_System/blob/main/kl_mining_system_github_logo.png" width="240">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Software Name-KL Mining System-blue" alt="Full Name"/>
